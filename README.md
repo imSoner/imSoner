@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Soner 👋
-- 👀 I’m interested in IT 👀
-- 🌱 I’m currently learning C# & C++🌱
+Hi, I’m Soner 👋
+I’m currently learning Python & C++🌱
