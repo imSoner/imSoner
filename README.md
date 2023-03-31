@@ -1,3 +1,3 @@
 Hi, I’m Soner 👋
 
-I’m currently learning Python & C++🌱
+I’m currently learning C# & C++🌱
