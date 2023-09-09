@@ -1,5 +1,5 @@
 ### Hi there! 👋
-https://www.codewars.com/users/imSoner
+
 I'm Soner 😎, a budding programmer exploring C++ and Java.
 
 🖥️ Main Languages: C++ and Java.
