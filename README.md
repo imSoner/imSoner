@@ -2,7 +2,7 @@
 
 I'm Soner 😎, a budding programmer exploring C++ and Java.
 
-🖥️ Main Languages: C++ and Java.
+🖥️ Main Languages: C++, C# and Java.
 
 🚀 Building various projects to apply what I learn.
 
