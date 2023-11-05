@@ -12,6 +12,8 @@ I'm Soner 😎, a budding programmer exploring C++ and Java.
 
 
 [![CodeWars](https://www.codewars.com/users/imSoner/badges/large)]([https://www.codewars.com/users/imSoner])
+
+
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
