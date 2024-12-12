@@ -1,8 +1,6 @@
 ###
 
-### I'm Soner, diving deep into the world of Java.
-### Main focus: Java, all day, every day.
-### Building dope projects, leveling up with each line of code.
+#Java, all day, every day.
 
 
 [![CodeWars](https://www.codewars.com/users/imSoner/badges/large)](https://www.codewars.com/users/imSoner)
