@@ -1,6 +1,6 @@
 ###
 
-#Java, all day, every day.
+Java, all day, every day.
 
 
 [![CodeWars](https://www.codewars.com/users/imSoner/badges/large)](https://www.codewars.com/users/imSoner)
